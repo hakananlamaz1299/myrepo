@@ -2,8 +2,9 @@ package com.clazz.hakan.interFace;
 
 public interface PeopleInterface{
 	
-	String name ="";
-	String surname = "";
+	String namee ="Hakan";
+	String surname = "Anlamaz";
+	
 	
 	
 
